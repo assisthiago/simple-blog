@@ -1,0 +1,27 @@
+.container-fluid {
+    background: #0e0e0e;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: white;
+}
+a:hover {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+
+img {
+    height: 100vh;
+}
